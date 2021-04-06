@@ -1,0 +1,16 @@
+{
+  "name": "pdfbuilder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "excel2pdf.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "convert-excel-to-json": "^1.7.0",
+    "pdfkit": "^0.12.0",
+    "scissors": "^0.3.0"
+  }
+}
